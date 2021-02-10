@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719371756136",
+    "project_id": "groomz-3461b",
+    "storage_bucket": "groomz-3461b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719371756136:android:eef6ab282736e29d7411dd",
+        "android_client_info": {
+          "package_name": "com.example.groomz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719371756136-enj6g612rp4qhjjicg57nrleho52kdmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCygU21TXIfDRSJE0GR78xJ0ULQ6vKmhpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719371756136-enj6g612rp4qhjjicg57nrleho52kdmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
